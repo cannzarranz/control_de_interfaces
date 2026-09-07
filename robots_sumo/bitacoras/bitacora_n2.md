@@ -18,11 +18,12 @@
 
 ### Objetivos de la jornada:
 - Registrar la documentación investigada
+- Investigar sobre la raspberry
 - Terminar el diseño electrónico
 - Corregir el programa escrito la semana pasada
 
 ### Actividades realizadas:
-
+- Investigación de la raspberry
 ### Problemas encontrados:
 
 
