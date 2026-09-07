@@ -1,2 +1,5 @@
-Carpeta designada para la documentación de robot -nombre-
+Carpeta designada para la documentación de robot -RocKy-
 
+puente H:Es un circuito electrónico utilizando principalmente para controlar motores de corriente continua (DC).Su función principal es permitir que el motor puedan girar en ambos sentidos,es decir, hacia adenlante y hacia atrás.Su funcionamiento se basa en cuatro interruptores electrónicos , generalmente trasistores o MOSFET, que controlan el paso de la corriente hacia el motor.De pendiendo de qué interruptores se activen, la corriente circula por el motor en un sentido o en el contrario.Al invertir el sentido de giro del motor.Además de cambiar de giro del motor.Además de cambiar el sentido de giro, un punente H puede ultilizar para encender y apagar y,mediante señales PWM,controlar la velocidad del motor.
+GPIO:(General Purpose Input/Output) son pines de propósito genral que permite al microcontrolador comunicarse con diferentes componentes electrónicos.Pueden configurarse como netradas,para recibir información de sensores o interruptores,o como salidas,para enviar señales y controlar otros dispositivos.
+PWM:Nos permite controlar la petencia de un motor mediante pulso electronicos
